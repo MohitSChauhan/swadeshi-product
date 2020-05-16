@@ -1,0 +1,470 @@
+[
+    {
+      "Category": "COLD DRINK",
+      "Country": "Foreign",
+      "1": "Coca Cola",
+      "2": "Sprite",
+      "3": "Thumbsup",
+      "4": "Pepsi",
+      "5": "Mirinda"
+    },
+    {
+      "Category": "COLD DRINK",
+      "Country": "Swadeshi",
+      "1": "Rose   Drink(Sherbat)",
+      "2": "Roohafza (Hamdard)",
+      "3": "Rasna",
+      "4": "Frooti",
+      "5": "Godrej Jumpin"
+    },
+    {
+      "Category": "TEA",
+      "Country": "Foreign",
+      "1": "Lipton",
+      "2": "BrookBond(Red Label)",
+      "3": "Taj Mahal",
+      "4": "Sunrise",
+      "5": "Nestle"
+    },
+    {
+      "Category": "TEA",
+      "Country": "Swadeshi",
+      "1": "Divya Peya(Patanjali)",
+      "2": "Tata",
+      "3": "Brahmaputra",
+      "4": "Girnaar",
+      "5": "Indian Cafe"
+    },
+    {
+      "Category": "CHILD FOOD",
+      "Country": "Foreign",
+      "1": "Nestle(Lactogen)",
+      "2": "Cerelac",
+      "3": "Nestam",
+      "4": "L.P.F",
+      "5": "Milkmaid"
+    },
+    {
+      "Category": "CHILD FOOD",
+      "Country": "Swadeshi",
+      "1": "Patanjali",
+      "2": "Amul",
+      "3": "Saras",
+      "4": "Sagar",
+      "5": "Milk Care"
+    },
+    {
+      "Category": "ICECREAM",
+      "Country": "Foreign",
+      "1": "Walls",
+      "2": "Quality",
+      "3": "Cadbury",
+      "4": "Dolps",
+      "5": "Baskin &amp; Robins."
+    },
+    {
+      "Category": "ICECREAM",
+      "Country": "Swadeshi",
+      "1": "Homemade icecream/coolfi",
+      "2": "Amul",
+      "3": "Vadilal",
+      "4": "Milk food",
+      "5": ""
+    },
+    {
+      "Category": "SALT",
+      "Country": "Foreign",
+      "1": "Annapurna",
+      "2": "Captain Cook",
+      "3": "Kisan(Brookbond)",
+      "4": "Pilsbury.",
+      "5": ""
+    },
+    {
+      "Category": "SALT",
+      "Country": "Swadeshi",
+      "1": "Ankur",
+      "2": "Saindha namak(Patanjali)",
+      "3": "Low Sodium & Iron-45 Ankur",
+      "4": "Tata",
+      "5": "Surya"
+    },
+    {
+      "Category": "SNACKS",
+      "Country": "Foreign",
+      "1": "Uncle chips",
+      "2": "Pepsi(Ruffle",
+      "3": "Hastes)",
+      "4": "FunMunch",
+      "5": "etc"
+    },
+    {
+      "Category": "SNACKS",
+      "Country": "Swadeshi",
+      "1": "Bikano Namkeen",
+      "2": "Haldiram",
+      "3": "Homemade chips",
+      "4": "Bikaji",
+      "5": "AOne"
+    },
+    {
+      "Category": "KETCHUP AND JAM",
+      "Country": "Foreign",
+      "1": "Nestle",
+      "2": "BrookBond (Kisaan)",
+      "3": "Brown and Palson",
+      "4": "",
+      "5": ""
+    },
+    {
+      "Category": "KETCHUP AND JAM",
+      "Country": "Swadeshi",
+      "1": "Patanjali(Fruit jam)",
+      "2": "Homemade sauce/ketchup",
+      "3": "Indana",
+      "4": "Priya",
+      "5": "Rasna."
+    },
+    {
+      "Category": "BISCUIT",
+      "Country": "Foreign",
+      "1": "Cadbury(Bournvita)",
+      "2": "Eclairs.",
+      "3": "Lipton",
+      "4": "Horlicks",
+      "5": "Nutrine"
+    },
+    {
+      "Category": "BISCUIT",
+      "Country": "Swadeshi",
+      "1": "Patanjali(Amla Candy)",
+      "2": "Amul",
+      "3": "Ravalgaon",
+      "4": "Parle",
+      "5": "Indana"
+    },
+    {
+      "Category": "WATER",
+      "Country": "Foreign",
+      "1": "Aquafina",
+      "2": "Kinley",
+      "3": "Beiley",
+      "4": "Pure life",
+      "5": "Ivian."
+    },
+    {
+      "Category": "WATER",
+      "Country": "Swadeshi",
+      "1": "Home boiled pure water",
+      "2": "Ganga",
+      "3": "Himalaya",
+      "4": "Rail neer",
+      "5": "Bisleri."
+    },
+    {
+      "Category": "TONIC",
+      "Country": "Foreign",
+      "1": "Boost",
+      "2": "Polson",
+      "3": "Bournvita",
+      "4": "Horlicks",
+      "5": "Complan"
+    },
+    {
+      "Category": "TONIC",
+      "Country": "Swadeshi",
+      "1": "Patanjali(Badam Pak",
+      "2": "Chyawanprash",
+      "3": "Amrit Rasayan",
+      "4": "Nutramul)",
+      "5": ""
+    },
+    {
+      "Category": "OIL",
+      "Country": "Foreign",
+      "1": "Nestle",
+      "2": "ITC",
+      "3": "Hindustan Uniliver",
+      "4": "",
+      "5": ""
+    },
+    {
+      "Category": "OIL",
+      "Country": "Swadeshi",
+      "1": "Param Ghee",
+      "2": "Amul",
+      "3": "Handmade cow ghee",
+      "4": "Patanjali(Sarso ka tel).",
+      "5": ""
+    },
+    {
+      "Category": "TOOTHPASTE",
+      "Country": "Foreign",
+      "1": "Closeup",
+      "2": "Colgate",
+      "3": "Pepsodent",
+      "4": "Cibaca",
+      "5": "Aquafresh"
+    },
+    {
+      "Category": "TOOTHPASTE",
+      "Country": "Swadeshi",
+      "1": "Patanjali(Dant Kanti)",
+      "2": "Dant Manjan",
+      "3": "Vico Bajradanti",
+      "4": "MDH",
+      "5": "Baidyanath"
+    },
+    {
+      "Category": "TOOTHBRUSH",
+      "Country": "Foreign",
+      "1": "Colgate",
+      "2": "Closeup",
+      "3": "Pepsodent",
+      "4": "Oral-B",
+      "5": "Aquafresh"
+    },
+    {
+      "Category": "TOOTHBRUSH",
+      "Country": "Swadeshi",
+      "1": "Ajay",
+      "2": "Promise",
+      "3": "Ajanta",
+      "4": "Royal",
+      "5": "Classic"
+    },
+    {
+      "Category": "SHAMPOO",
+      "Country": "Foreign",
+      "1": "Lux",
+      "2": "Liril",
+      "3": "Lifebuoy",
+      "4": "Denim",
+      "5": "Dove"
+    },
+    {
+      "Category": "SHAMPOO",
+      "Country": "Swadeshi",
+      "1": "Patanjali(Kayakanti",
+      "2": "Kayakanti  Aloevera)",
+      "3": "Nirma",
+      "4": "Medimix",
+      "5": "Neem"
+    },
+    {
+      "Category": "SOAP",
+      "Country": "Foreign",
+      "1": "Colgate",
+      "2": "Palmolive",
+      "3": "HUL(Lux",
+      "4": "Clinic",
+      "5": "Sunsilk"
+    },
+    {
+      "Category": "SOAP",
+      "Country": "Swadeshi",
+      "1": "Kesh   Kanti",
+      "2": "Wipro",
+      "3": "Park Avenue",
+      "4": "Swatik",
+      "5": "Ayur Herbal"
+    },
+    {
+      "Category": "WASHING",
+      "Country": "Foreign",
+      "1": "HUL(Surf",
+      "2": "Rin",
+      "3": "Sunlight",
+      "4": "Wheel",
+      "5": "Okay"
+    },
+    {
+      "Category": "WASHING",
+      "Country": "Swadeshi",
+      "1": "Tata   Shudh",
+      "2": "Nima",
+      "3": "Care",
+      "4": "Sahara",
+      "5": "Swastik"
+    },
+    {
+      "Category": "SHAVING",
+      "Country": "Foreign",
+      "1": "Old Spice",
+      "2": "Palmolive",
+      "3": "Ponds",
+      "4": "Gillete",
+      "5": "Denim."
+    },
+    {
+      "Category": "SHAVING",
+      "Country": "Swadeshi",
+      "1": "Park Avenue",
+      "2": "Premium",
+      "3": "Emami",
+      "4": "Balsara",
+      "5": "Godrej"
+    },
+    {
+      "Category": "BLADE",
+      "Country": "Foreign",
+      "1": "Gillete",
+      "2": "70clock",
+      "3": "Wilman",
+      "4": "Wiltage.",
+      "5": ""
+    },
+    {
+      "Category": "BLADE",
+      "Country": "Swadeshi",
+      "1": "Topaz",
+      "2": "Gallant",
+      "3": "Supermax",
+      "4": "Laser",
+      "5": "Esquire"
+    },
+    {
+      "Category": "COSMETICS",
+      "Country": "Foreign",
+      "1": "Fair   &amp; Lovely",
+      "2": "Lakme",
+      "3": "Liril",
+      "4": "Denim",
+      "5": "Ponds"
+    },
+    {
+      "Category": "COSMETICS",
+      "Country": "Swadeshi",
+      "1": "Patanjali(KayaKanti)",
+      "2": "Vico",
+      "3": "Boroplus",
+      "4": "Borosil",
+      "5": "Ayur Emami"
+    },
+    {
+      "Category": "GARMENTS",
+      "Country": "Foreign",
+      "1": "Rangler",
+      "2": "Nike",
+      "3": "Duke",
+      "4": "Adidas",
+      "5": "Puma"
+    },
+    {
+      "Category": "GARMENTS",
+      "Country": "Swadeshi",
+      "1": "Cambridge",
+      "2": "Park Avenue",
+      "3": "Bombay Dyeing",
+      "4": "Ruf &amp; Tuf",
+      "5": "Trigger Jeans"
+    },
+    {
+      "Category": "WATCH",
+      "Country": "Foreign",
+      "1": "Hublot",
+      "2": "Armani",
+      "3": "Chopard",
+      "4": "Dior",
+      "5": "FranckMuller"
+    },
+    {
+      "Category": "WATCH",
+      "Country": "Swadeshi",
+      "1": "Titan",
+      "2": "HMT",
+      "3": "Maxima",
+      "4": "Fasttrack.",
+      "5": "Ajanta"
+    },
+    {
+      "Category": "PEN",
+      "Country": "Foreign",
+      "1": "Parker",
+      "2": "Nickleson",
+      "3": "Rotomac",
+      "4": "Swissair",
+      "5": "Add Gel"
+    },
+    {
+      "Category": "PEN",
+      "Country": "Swadeshi",
+      "1": "Camel",
+      "2": "Linc",
+      "3": "Sharp",
+      "4": "Cello",
+      "5": "Natraj"
+    },
+    {
+      "Category": "ELECTRONICS",
+      "Country": "Foreign",
+      "1": "Samsung",
+      "2": "LG",
+      "3": "Sony",
+      "4": "Hitachi",
+      "5": "Haier."
+    },
+    {
+      "Category": "ELECTRONICS",
+      "Country": "Swadeshi",
+      "1": "Voltas",
+      "2": "Videocon",
+      "3": "BPL",
+      "4": "Onida",
+      "5": "Orpat"
+    },
+    {
+      "Category": "COMPUTER &amp; TABLETS",
+      "Country": "Foreign",
+      "1": "HP",
+      "2": "Samsung",
+      "3": "Dell",
+      "4": "Microsoft",
+      "5": "Apple"
+    },
+    {
+      "Category": "COMPUTER &amp; TABLETS",
+      "Country": "Swadeshi",
+      "1": "Carbonn",
+      "2": "Chirag",
+      "3": "HCL",
+      "4": "MICROMAX",
+      "5": "Reliance"
+    },
+    {
+      "Category": "ONLINE SHOPPING",
+      "Country": "Foreign",
+      "1": "ebay",
+      "2": "jabong",
+      "3": "Amazon",
+      "4": "expedia.",
+      "5": ""
+    },
+    {
+      "Category": "ONLINE SHOPPING",
+      "Country": "Swadeshi",
+      "1": "Flipkart",
+      "2": "SnapDeal",
+      "3": "HomeShop18",
+      "4": "Myntra",
+      "5": "Naaptol"
+    },
+    {
+      "Category": "CAR",
+      "Country": "Foreign",
+      "1": "MarutiSuzuki",
+      "2": "Hyundai",
+      "3": "Chevrolet",
+      "4": "Ford",
+      "5": "Nissan"
+    },
+    {
+      "Category": "CAR",
+      "Country": "Swadeshi",
+      "1": "TATA",
+      "2": "Mahindra",
+      "3": "Hindustan Motors",
+      "4": "",
+      "5": ""
+    }
+   ]
