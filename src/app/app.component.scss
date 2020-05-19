@@ -330,7 +330,9 @@ body {
     width: 100%;
     overflow: hidden;
     position: relative;
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, .6)), url(../assets/img/cover.jpg);
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3));
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url(../assets/img/cover.jpg) ;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;

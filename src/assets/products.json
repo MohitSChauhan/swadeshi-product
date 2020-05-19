@@ -105,7 +105,7 @@
       "2": "Haldiram",
       "3": "Homemade chips",
       "4": "Bikaji",
-      "5": "AOne"
+      "5": "A-One"
     },
     {
       "Category": "KETCHUP AND JAM",
@@ -414,7 +414,7 @@
       "5": "Orpat"
     },
     {
-      "Category": "COMPUTER &amp; TABLETS",
+      "Category": "COMPUTER & TABLETS",
       "Country": "Foreign",
       "1": "HP",
       "2": "Samsung",
@@ -423,7 +423,7 @@
       "5": "Apple"
     },
     {
-      "Category": "COMPUTER &amp; TABLETS",
+      "Category": "COMPUTER & TABLETS",
       "Country": "Swadeshi",
       "1": "Carbonn",
       "2": "Chirag",
@@ -434,11 +434,11 @@
     {
       "Category": "ONLINE SHOPPING",
       "Country": "Foreign",
-      "1": "ebay",
-      "2": "jabong",
-      "3": "Amazon",
+      "1": "Amazon",
+      "2": "Jabon",
+      "3": "Ebay",
       "4": "expedia.",
-      "5": ""
+      "5": "Ali Baba"
     },
     {
       "Category": "ONLINE SHOPPING",
@@ -452,7 +452,7 @@
     {
       "Category": "CAR",
       "Country": "Foreign",
-      "1": "MarutiSuzuki",
+      "1": "Toyota",
       "2": "Hyundai",
       "3": "Chevrolet",
       "4": "Ford",
@@ -464,7 +464,7 @@
       "1": "TATA",
       "2": "Mahindra",
       "3": "Hindustan Motors",
-      "4": "",
-      "5": ""
+      "4": "Ashok Leyland",
+      "5": "MarutiSuzuki"
     }
    ]
