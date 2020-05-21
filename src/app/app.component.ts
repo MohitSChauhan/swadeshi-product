@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 // const { GoogleSpreadsheet } = require('google-spreadsheet');
 import productJson from '../assets/products.json';
-declare var ga: Function;
+declare var ga;
 
 @Component({
   selector: 'app-root',
@@ -12,9 +12,8 @@ export class AppComponent {
   title = 'indian-products';
   final_array = []
   constructor(){
-    ga('set', 'page', 'home');
-    ga('send', 'pageview');
-    // console.log(productJson);
+    // ga('set', 'page', 'home');
+    // ga('send', 'pageview');
     for (let index = 0; index < productJson.length; index+=2) {
       const element = productJson[index];
       const element2 = productJson[index+1];
@@ -41,4 +40,5 @@ export class AppComponent {
     // const doc = new GoogleSpreadsheet('<the sheet ID from the url>');
 
   }
+  
 }
