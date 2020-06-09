@@ -10,7 +10,7 @@
     "e2e": "ng e2e",
     "build-prod": "ng build --prod --configuration=production",
     "build-stag": "ng build --prod --configuration=staging",
-    "deploy": "firebase deploy"
+    "deploy": "firebase deploy --project swadeshi-product"
   },
   "private": true,
   "dependencies": {
