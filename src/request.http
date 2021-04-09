@@ -1,0 +1,9 @@
+GET https://synoriq.com/synosense-new/synosense-crm/index.php?entryPoint=upcomingBirthday
+
+
+###
+POST https://synoriq.com/synosense-new/synosense-crm/index.php?entryPoint=personalInfo
+Content-Type: application/x-www-form-urlencoded
+
+id=bbeefdbc-f73d-7a78-1b12-5d820b677291
+&month=2020-04
